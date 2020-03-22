@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Geometrik Ortalama Bul\Kod S Geometrik Ortalama Bul\bin\Debug\Kod S Geometrik Ortalama Bul.exe
+C:\Users\mrt_b\Desktop\Kod S Geometrik Ortalama Bul\Kod S Geometrik Ortalama Bul\bin\Debug\Kod S Geometrik Ortalama Bul.pdb
+C:\Users\mrt_b\Desktop\Kod S Geometrik Ortalama Bul\Kod S Geometrik Ortalama Bul\obj\x86\Debug\Kod S Geometrik Ortalama Bul.exe
+C:\Users\mrt_b\Desktop\Kod S Geometrik Ortalama Bul\Kod S Geometrik Ortalama Bul\obj\x86\Debug\Kod S Geometrik Ortalama Bul.pdb
